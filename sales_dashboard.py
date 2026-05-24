@@ -1,7 +1,7 @@
 import pandas as pd
 
 def load_data():
-    df = pd.read_csv("sales_data.csv")
+    df = pd.read_csv("sales_data2.csv")
 
     df['Date'] = pd.to_datetime(df['Date'])
 
