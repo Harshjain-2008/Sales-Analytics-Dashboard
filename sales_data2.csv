@@ -1,0 +1,13 @@
+Order_ID,Date,Product,Category,Quantity,Price,Cost_Price,Customer,City,Revenue,Total_cost,Profit,Profit_%,Month
+2001,2026-06-03,Printer,Electronics,2,18000,14000,Karan,Delhi,36000,28000,8000,22.22,June
+2002,2026-06-10,Speaker,Accessories,4,5000,3500,Ananya,Mumbai,20000,14000,6000,30.0,June
+2003,2026-07-01,Camera,Electronics,1,60000,50000,Vikas,Pune,60000,50000,10000,16.67,July
+2004,2026-07-08,Mouse,Accessories,8,800,500,Simran,Chandigarh,6400,4000,2400,37.5,July
+2005,2026-07-18,Monitor,Electronics,3,15000,11000,Raj,Jaipur,45000,33000,12000,26.67,July
+2006,2026-08-02,Keyboard,Accessories,5,2000,1200,Pooja,Delhi,10000,6000,4000,40.0,August
+2007,2026-08-14,Laptop,Electronics,2,65000,55000,Dev,Bangalore,130000,110000,20000,15.38,August
+2008,2026-08-20,Tablet,Electronics,4,22000,18000,Sneha,Hyderabad,88000,72000,16000,18.18,August
+2009,2026-09-05,Headphones,Accessories,10,3500,2500,Arjun,Mumbai,35000,25000,10000,28.57,September
+2010,2026-09-11,Smartwatch,Electronics,3,18000,13000,Meera,Chennai,54000,39000,15000,27.78,September
+2011,2026-10-04,Drone,Electronics,1,90000,75000,Rohit,Pune,90000,75000,15000,16.67,October
+2012,2026-10-15,USB Drive,Accessories,20,900,500,Nisha,Delhi,18000,10000,8000,44.44,October
